@@ -95,7 +95,7 @@ The codebase is built on top of [Deformable DETR](https://github.com/fundamental
 
 Below, we provide checkpoints, training logs and inference logs of TransVOD++ in this link
 
-[DownLoad Link](https://pan.baidu.com/s/1WAXRgXODX1tZ5PNkNOGDaA) (password:26xc)
+[DownLoad Link](https://pan.baidu.com/s/1_8hCRWCXCSvqD4fsUYPnKA)(password:shm7)
 
 
 ### Dataset preparation
@@ -120,7 +120,7 @@ code_root/
 We use Swin Transformer as the network backbone. We train our TransVOD with Swin-base as backbone as following:
 
 #### Training on single node
-1. Train SingleFrameBaseline. You can download COCO pretrained weights from this [DownLoad Link](https://pan.baidu.com/s/1WAXRgXODX1tZ5PNkNOGDaA) (password:26xc). 
+1. Train SingleFrameBaseline. You can download COCO pretrained weights from this [DownLoad Link](https://pan.baidu.com/s/1_8hCRWCXCSvqD4fsUYPnKA)(password:shm7)
    
 ```bash 
 GPUS_PER_NODE=8 ./tools/run_dist_launch.sh $1 swinb $2 configs/swinb_train_single.sh
