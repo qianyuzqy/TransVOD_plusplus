@@ -47,7 +47,7 @@ Our proposed method TransVOD++, achieving the best tradeoff between the speed an
 
 
 *Note:*
-1. All models of TransVOD are trained  with pre-trained weights on COCO dataset.
+1. All models of TransVOD++ are trained  with pre-trained weights on COCO dataset.
 
 
 ## Installation
