@@ -62,11 +62,11 @@ The codebase is built on top of [Deformable DETR](https://github.com/fundamental
 
     We recommend you to use Anaconda to create a conda environment:
     ```bash
-    conda create -n TransVOD python=3.7 pip
+    conda create -n TransVOD++ python=3.7 pip
     ```
     Then, activate the environment:
     ```bash
-    conda activate TransVOD
+    conda activate TransVOD++
     ```
   
 * PyTorch>=1.5.1, torchvision>=0.6.1 (following instructions [here](https://pytorch.org/)
