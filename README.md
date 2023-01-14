@@ -93,7 +93,7 @@ The codebase is built on top of [Deformable DETR](https://github.com/fundamental
 
 ### Checkpoints
 
-Below, we provide checkpoints, training logs and inference logs of TransVOD++ for different backbones.
+Below, we provide checkpoints, training logs and inference logs of TransVOD++ in this link
 
 [DownLoad Link](https://pan.baidu.com/s/1WAXRgXODX1tZ5PNkNOGDaA) (password:26xc)
 
